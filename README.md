@@ -1,5 +1,13 @@
 # Json_to_data_dataframe_julia
 
+input:
+
+"""[
+    {"name": "Shyam", "age": 30, "city": "New York", "email":"shyamjaiswal@gmail.com"},
+    {"name": "Bob", "age": 25, "city": "Los Angeles", "email":"bob32@gmail.com"},
+    {"name": "Jai", "age": 40, "city": "Chicago", "email":"jai87@gmail.com"}
+]"""
+
 
 output:
 
